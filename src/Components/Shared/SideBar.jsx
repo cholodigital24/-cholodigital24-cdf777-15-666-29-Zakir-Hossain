@@ -223,7 +223,7 @@ const SideBar = ({ open, setOpen }) => {
 
         <div className="flex justify-center my-3">
           <a
-            href="tel:+01748974869"
+            href="tel:+8801748974869"
             className={`btn btn-primary pb-1 rounded-md cursor-pointer hover:bg-light-white text-sm items-center gap-x-4 py-1 px-6 text-white`}
           >
             <FaPhone /> {open && "Call Me"}
